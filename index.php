@@ -77,3 +77,5 @@ HTML;
 // Importa template da página:
 require($_SERVER['DOCUMENT_ROOT'] . '/inc/_template.php');
 ?>
+
+style><?php include 'C:/xampp/htdocs/style.css'; ?></style>
